@@ -1,14 +1,13 @@
 <div align="right">
   <img align='right' src='/github-metrics.svg' width='420px'>
-  <img align='right' src='https://github.com/imashen/imashen/blob/main/naiai.png' width='80px'>  
+  <img align='right' src='https://github.com/tutuxka/tutuxka/blob/main/tutu.png' width='80px'>  
 </div>
 <div align="left">
   <h3 align="center"> imashen | noneko</h3>
   <p align="center">
     <samp>
-      <a href="https://imashen.cn/">Blog</a> ∙
-      <a href="https://space.bilibili.com/354520563">Bilibili</a> ∙
-      <a href="https://steamcommunity.com/id/imashenyoo">Steam</a> ∙
+      <a href="https://blog.tutuxka.eu.org/">Blog</a> ∙
+      <a href="https://space.bilibili.com/1129280784">Bilibili</a> ∙
     </samp>
   </p>
   <p align="left">
@@ -43,9 +42,9 @@
   📧 Contact Me
   </p>
   
-  - 🐧[TencentQQ @1535686711](http://wpa.qq.com/msgrd?v=3&uin=1535686711&site=qq&menu=yes)
-  - 🛩️ [Telegram @imashen](https://t.me/imashen)
-  - 🎈 [TencentWeChat @imashenyoo]()
+  - 🐧[TencentQQ @1742305143](http://wpa.qq.com/msgrd?v=3&uin=1742305143&site=qq&menu=yes)
+  - 🛩️ [Telegram @tutuxka](https://t.me/tutuxka)
+  - 🎈 [TencentWeChat @tutu020910143786]()
   
 
 </div>
