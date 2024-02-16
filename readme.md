@@ -25,7 +25,7 @@
   - 🌐 Loves playing with IoT devices
   - 🔧 Hands-on superhero
   - 📡 Wide range of areas of interest
-  - 🗡 CS and Honor Of King  players
+  - 🗡 Minecraft and Don't Starve  players
   
   <p align="left">
   📫 Skills (I think...)
