@@ -3,7 +3,7 @@
   <img align='right' src='https://github.com/tutuxka/tutuxka/blob/main/tutu.png' width='80px'>  
 </div>
 <div align="left">
-  <h3 align="center"> imashen | noneko</h3>
+  <h3 align="center"> tutuxka </h3>
   <p align="center">
     <samp>
       <a href="https://blog.tutuxka.eu.org/">Blog</a> ∙
